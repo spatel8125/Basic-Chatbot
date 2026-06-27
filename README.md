@@ -107,7 +107,7 @@ bye
 
 ## 📸 Output Screenshot
 
-![Chatbot Output](screenshots/output.png)
+![Chatbot Output](screenshots/output.png.)
 
 ---
 
